@@ -15,6 +15,8 @@ This is an interactive portfolio website for Cedrick Shikoli, a Technology Train
 
 The website is designed to provide an engaging and user-friendly experience for visitors. It includes sections for an introduction, professional background, interests, projects, and a contact form. The site is fully responsive and styled with modern CSS techniques.
 
+https://ceddyxan.github.io/plp-webdev/Hackthon1 Portfolio.html
+
 ## Features
 
 - **Introduction Section**: A brief overview of Cedrick's background and goals.
