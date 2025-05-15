@@ -49,8 +49,8 @@ e:\Academy PLP\Web Development V2\Testing Web
 
 For any inquiries or collaborations, feel free to reach out:
 
-- **Email**: [cedricshik@gmail.com](mailto:cedricshik@gmail.com)
-- **Phone**: [+254 723 499 744](tel:+254723499744)
+- **Email**: 
+- **Phone**: 
 
 ---
 
